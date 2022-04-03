@@ -11,5 +11,5 @@ LinkedIn:https://www.linkedin.com/in/alan-fernandes-03096317b/
 
 Instagram: https://www.instagram.com/_alanfernds/
 
-E-mail: alanfernandes.mm@gmail.com# JS---Utilizando-o-For
+E-mail: alanfernandes.mm@gmail.com#
 
